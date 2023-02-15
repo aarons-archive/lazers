@@ -1,0 +1,14 @@
+{
+  "FolderOrderSettings": [
+    {"name":"Objects","order":2,"path":"folders/Objects.yy",},
+    {"name":"Sprites","order":1,"path":"folders/Sprites.yy",},
+  ],
+  "ResourceOrderSettings": [
+    {"name":"spr_lazer_beam","order":1,"path":"sprites/spr_lazer_beam/spr_lazer_beam.yy",},
+    {"name":"obj_lazer_beam","order":1,"path":"objects/obj_lazer_beam/obj_lazer_beam.yy",},
+    {"name":"oController","order":3,"path":"objects/oController/oController.yy",},
+    {"name":"obj_guy","order":2,"path":"objects/obj_guy/obj_guy.yy",},
+    {"name":"spr_guy","order":2,"path":"sprites/spr_guy/spr_guy.yy",},
+    {"name":"spr_dead","order":3,"path":"sprites/spr_dead/spr_dead.yy",},
+  ],
+}

@@ -1,0 +1,40 @@
+{
+  "resourceType": "GMProject",
+  "resourceVersion": "1.6",
+  "name": "lazers",
+  "AudioGroups": [
+    {"resourceType":"GMAudioGroup","resourceVersion":"1.3","name":"audiogroup_default","targets":-1,},
+  ],
+  "configs": {
+    "children": [],
+    "name": "Default",
+  },
+  "defaultScriptType": 1,
+  "Folders": [
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Objects","folderPath":"folders/Objects.yy","order":2,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Rooms","folderPath":"folders/Rooms.yy","order":0,},
+    {"resourceType":"GMFolder","resourceVersion":"1.0","name":"Sprites","folderPath":"folders/Sprites.yy","order":1,},
+  ],
+  "IncludedFiles": [],
+  "isEcma": false,
+  "MetaData": {
+    "IDEVersion": "2023.1.0.58",
+  },
+  "resources": [
+    {"id":{"name":"spr_lazer_beam","path":"sprites/spr_lazer_beam/spr_lazer_beam.yy",},"order":1,},
+    {"id":{"name":"obj_lazer_beam","path":"objects/obj_lazer_beam/obj_lazer_beam.yy",},"order":1,},
+    {"id":{"name":"oController","path":"objects/oController/oController.yy",},"order":3,},
+    {"id":{"name":"obj_lazer","path":"objects/obj_lazer/obj_lazer.yy",},"order":0,},
+    {"id":{"name":"obj_guy","path":"objects/obj_guy/obj_guy.yy",},"order":2,},
+    {"id":{"name":"spr_lazer","path":"sprites/spr_lazer/spr_lazer.yy",},"order":0,},
+    {"id":{"name":"spr_guy","path":"sprites/spr_guy/spr_guy.yy",},"order":2,},
+    {"id":{"name":"spr_dead","path":"sprites/spr_dead/spr_dead.yy",},"order":3,},
+    {"id":{"name":"Main","path":"rooms/Main/Main.yy",},"order":0,},
+  ],
+  "RoomOrderNodes": [
+    {"roomId":{"name":"Main","path":"rooms/Main/Main.yy",},},
+  ],
+  "TextureGroups": [
+    {"resourceType":"GMTextureGroup","resourceVersion":"1.3","name":"Default","autocrop":true,"border":2,"compressFormat":"bz2","directory":"","groupParent":null,"isScaled":true,"loadType":"default","mipsToGenerate":0,"targets":-1,},
+  ],
+}
