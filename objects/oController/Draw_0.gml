@@ -1,6 +1,6 @@
 if (global.state == States.PLACING_GUY) {
 	draw_sprite_ext(
-		obj_guy, 0,
+		spr_guy, 0,
 		mouse_x, mouse_y,
 		1, 1, 
 		0,

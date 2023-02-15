@@ -1,3 +1,3 @@
-if (global._state == States.ACTIVE and instance_place(x, y, oStrand)) {
+if (global.state == States.LAZERS_ON and instance_place(x, y, oStrand)) {
 	sprite_index = sExploded
 }

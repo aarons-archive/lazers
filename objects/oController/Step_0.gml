@@ -18,11 +18,11 @@ else if (
 }
 
 
-if (global._state == States.MOVING_GUY) {
+if (global.state == States.MOVING_GUY) {
 	moving.x = mouse_x
 	moving.y = mouse_y
 	if (mouse_check_button_pressed(global.MOVE_GUY_KEY)) {
-		global._state = States.NONE
+		global.state = States.NONE
 		moving = noone
 	}
 }
